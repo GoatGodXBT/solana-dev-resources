@@ -13,3 +13,5 @@ https://doc.rust-lang.org/std/all.html rust docs
 https://docs.rs/solana/latest/solana/ solana rust crate docs
 
 https://github.com/solana-labs/solana-program-library solana program library
+
+https://www.fmendez.com/exploring-program-derive-addresses-pd-as-with-solana-anchor-and-react exploring PDAs
