@@ -15,3 +15,5 @@ https://docs.rs/solana/latest/solana/ solana rust crate docs
 https://github.com/solana-labs/solana-program-library solana program library
 
 https://www.fmendez.com/exploring-program-derive-addresses-pd-as-with-solana-anchor-and-react exploring PDAs
+
+https://book.anchor-lang.com/introduction/what_is_anchor.html anchor book
