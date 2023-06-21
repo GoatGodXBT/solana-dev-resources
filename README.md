@@ -17,3 +17,5 @@ https://github.com/solana-labs/solana-program-library solana program library
 https://www.fmendez.com/exploring-program-derive-addresses-pd-as-with-solana-anchor-and-react exploring PDAs
 
 https://book.anchor-lang.com/introduction/what_is_anchor.html anchor book
+
+https://www.youtube.com/watch?v=A_U1Nd41vPc&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=1 solana developer videos
