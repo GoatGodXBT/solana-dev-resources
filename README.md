@@ -1,21 +1,36 @@
 # solana-dev-resources
 
-https://solanacookbook.com/#contributing solana cook book
+Solana cook book
+https://solanacookbook.com/#contributing 
 
-https://github.com/coral-xyz/anchor anchor
+Anchor
+https://github.com/coral-xyz/anchor 
 
-https://2501babe.github.io/posts/solana101.html whats the deal with solana
+Whats the deal with solana
+https://2501babe.github.io/posts/solana101.html 
 
-https://github.com/solana-developers/program-examples program examples
+Program examples
+https://github.com/solana-developers/program-examples 
 
-https://doc.rust-lang.org/std/all.html rust docs
+Rust docs
+https://doc.rust-lang.org/std/all.html
 
-https://docs.rs/solana/latest/solana/ solana rust crate docs
+Solana rust crate docs
+https://docs.rs/solana/latest/solana/ 
 
-https://github.com/solana-labs/solana-program-library solana program library
+Solana program library
+https://github.com/solana-labs/solana-program-library 
 
-https://www.fmendez.com/exploring-program-derive-addresses-pd-as-with-solana-anchor-and-react exploring PDAs
+Exploring PDAs
+https://www.fmendez.com/exploring-program-derive-addresses-pd-as-with-solana-anchor-and-react 
 
-https://book.anchor-lang.com/introduction/what_is_anchor.html anchor book
+Anchor book
+https://book.anchor-lang.com/introduction/what_is_anchor.html 
 
-https://www.youtube.com/watch?v=A_U1Nd41vPc&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=1 solana developer videos
+Solana developer videos
+https://www.youtube.com/watch?v=A_U1Nd41vPc&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=1 
+
+Help with understanding PDA's
+https://twitter.com/pencilflip/status/1455948263853600768?s=20&t=J2JXCwv395D7MNkX7a9LGw 
+https://www.youtube.com/watch?v=iMWaQRyjpl4
+https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
