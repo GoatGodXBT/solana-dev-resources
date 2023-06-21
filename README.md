@@ -34,3 +34,9 @@ Help with understanding PDA's
 https://twitter.com/pencilflip/status/1455948263853600768?s=20&t=J2JXCwv395D7MNkX7a9LGw 
 https://www.youtube.com/watch?v=iMWaQRyjpl4
 https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+
+Sealevel attacks explained
+https://twitter.com/pencilflip/status/1483880018858201090
+
+Sealevel attack examples
+https://github.com/coral-xyz/sealevel-attacks
